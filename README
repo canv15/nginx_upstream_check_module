@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Fnginx_upstream_check_module.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Fnginx_upstream_check_module?ref=badge_shield)
+
 Name
     nginx_http_upstream_check_module - support upstream health check with
     Nginx
@@ -345,3 +347,6 @@ Copyright & License
     NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
     SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Fnginx_upstream_check_module.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Fnginx_upstream_check_module?ref=badge_large)
